@@ -5,7 +5,7 @@ Instructions:
 Open a Terminal and run the following command.
 
 ```bash
-brew tap anderson-marques/inquire && brew install inquire
+brew tap anderson-marques/taps && brew install inquire
 ```
 
 ## inquire CLI
