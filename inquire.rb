@@ -5,6 +5,6 @@ class Inquire < Formula
   sha256 "417cdd911ef82ac9d97066e985778dbaee31d3c268fd6ad827631555995b8f13"
 
   def install
-    bin.install "inquire"
+    bin.install "inquire-macos" => "inquire"
   end
 end
